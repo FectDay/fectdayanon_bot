@@ -10,13 +10,3 @@ The official Telegram bot for anonymous messages FectDay.
 ## Links:
 **Telegram:** https://t.me/fectdayanon_bot
 **Telegram channel:** https://t.me/fectday
-
-
-## Source code availability
-
-The source code of this project is not published at the moment.
-
-It will be released later for transparency and security review,
-once the bot reaches a stable state.
-
-This repository currently serves as a placeholder and project page.
