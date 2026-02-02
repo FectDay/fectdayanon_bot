@@ -1,3 +1,8 @@
+#Copying of code/distribution and use is prohibited according to the license.
+
+#Копирование кода/распространение и использование запрещено согласно лицензии.
+
+
 reply_map = {}
 import asyncio
 import os
