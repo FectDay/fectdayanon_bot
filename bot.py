@@ -1,6 +1,6 @@
-#Copying of code/distribution and use is prohibited according to the license.
+#Copying of code/distribution and use is prohibited according to the license. [https://github.com/FectDay/fectdayanon_bot/blob/main/LICENSE]
 
-#Копирование кода/распространение и использование запрещено согласно лицензии.
+#Копирование кода/распространение и использование запрещено согласно лицензии. [https://github.com/FectDay/fectdayanon_bot/blob/main/LICENSE]
 
 
 reply_map = {}
