@@ -8,5 +8,5 @@ It is not open source and may not be used to deploy your own bot.
 The official Telegram bot for anonymous messages FectDay.
 
 ## Links:
-**Telegram:** https://t.me/fectdayanon_bot
+**Telegram bot:** https://t.me/fectdayanon_bot
 **Telegram channel:** https://t.me/fectday
