@@ -1,11 +1,7 @@
-## Purpose of this repository
+# This repository is published for transparency only.
 
-This source code is published for transparency and security review.
-
-You are welcome to inspect the code to verify that the bot does not contain
-any malicious or hidden functionality.
-
-This project is NOT intended to be used to deploy your own instance of the bot.
+The code is available for inspection and security review.
+It is not open source and may not be used to deploy your own bot.
 
 
 # fectdayanon_bot
