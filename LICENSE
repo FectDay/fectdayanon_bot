@@ -1,14 +1,21 @@
-Copyright (c) 2026 FectDay.
-
+Copyright (c) 2026 FectDay
 All rights reserved.
 
-This source code is published for transparency and security review purposes only.
+This source code is published strictly for transparency and security review.
 
-You are allowed to view and inspect the code to verify the absence of malicious
-or hidden functionality.
+Permission is granted to view and inspect the code for the sole purpose of
+verifying the absence of malicious or hidden functionality.
 
-You are NOT allowed to copy, modify, distribute, deploy, or use this code
-to run your own instance of the bot or any similar service.
+The source code may NOT be copied, modified, distributed, published,
+re-uploaded, sublicensed, or used to deploy any instance of this bot
+or any similar service.
 
-Any use of this code beyond inspection is strictly prohibited without
-explicit permission from the author.
+Distribution of this source code is allowed ONLY through the following
+official location(s):
+- https://github.com/FectDay/fectdayanon_bot
+
+No other person or platform has the right to redistribute or publish
+this code in any form without explicit written permission from the author.
+
+Any unauthorized use, distribution, or deployment of this code
+constitutes a violation of the author's rights.
