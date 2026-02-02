@@ -52,8 +52,8 @@ users_waiting = {}
 async def cmd_start(message: Message):
     video_obj = None
     try:
-        if os.path.exists(r"C:\Users\rusla\Pictures\Бригадирчикуменя.mp4"):
-            video_obj = FSInputFile(r"C:\Users\rusla\Pictures\Бригадирчикуменя.mp4")
+        if os.path.exists(r"C:\Users\PRIVATE\Pictures\Бригадирчикуменя.mp4"):
+            video_obj = FSInputFile(r"C:\Users\PRIVATE\Pictures\Бригадирчикуменя.mp4")
     except:
         pass
 
